@@ -1,0 +1,270 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 8, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 32032 K-images (500 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\0.jpg: Predicted in 685.220000 milli-seconds.
+horse: 79%	(left_x:   -6   top_y:   -4   width:  390   height:  495)
+person: 28%	(left_x:  306   top_y:   -8   width:  173   height:  491)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\1.jpg: Predicted in 87.367000 milli-seconds.
+person: 98%	(left_x:  207   top_y:  385   width:  461   height:  570)
+horse: 75%	(left_x:  333   top_y:   39   width:  426   height:  796)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\10.jpg: Predicted in 275.677000 milli-seconds.
+person: 100%	(left_x:  208   top_y:  321   width:   74   height:  200)
+horse: 99%	(left_x:  390   top_y:  274   width:  248   height:  265)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\11.jpg: Predicted in 107.783000 milli-seconds.
+motorbike: 26%	(left_x:  295   top_y:  180   width:  308   height:  408)
+car: 85%	(left_x:  295   top_y:  185   width:  306   height:  369)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\12.jpg: Predicted in 85.868000 milli-seconds.
+bottle: 41%	(left_x:  176   top_y:  866   width:   49   height:   81)
+person: 91%	(left_x:  210   top_y:  223   width:  559   height:  823)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\13.jpg: Predicted in 82.057000 milli-seconds.
+horse: 99%	(left_x:   87   top_y:   48   width:  369   height:  305)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\14.jpg: Predicted in 84.193000 milli-seconds.
+horse: 90%	(left_x:   -0   top_y:  376   width:   79   height:   79)
+person: 25%	(left_x:    2   top_y:  340   width:   39   height:   64)
+horse: 49%	(left_x:   54   top_y:  378   width:   70   height:   72)
+person: 71%	(left_x:   65   top_y:  355   width:   25   height:   57)
+horse: 25%	(left_x:   82   top_y:  384   width:   44   height:   63)
+horse: 90%	(left_x:  174   top_y:  371   width:   77   height:   87)
+person: 66%	(left_x:  206   top_y:  354   width:   32   height:   57)
+horse: 95%	(left_x:  234   top_y:  229   width:  216   height:  566)
+person: 78%	(left_x:  258   top_y:  185   width:  196   height:  319)
+horse: 73%	(left_x:  425   top_y:  384   width:   48   height:   60)
+person: 63%	(left_x:  437   top_y:  364   width:   19   height:   38)
+horse: 99%	(left_x:  486   top_y:  376   width:  114   height:   96)
+person: 67%	(left_x:  536   top_y:  349   width:   38   height:   68)
+person: 54%	(left_x:  568   top_y:  353   width:   21   height:   39)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\15.jpg: Predicted in 80.691000 milli-seconds.
+horse: 98%	(left_x:  174   top_y:  224   width:  317   height:  355)
+person: 98%	(left_x:  243   top_y:  165   width:  135   height:  223)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\16.jpg: Predicted in 86.719000 milli-seconds.
+person: 99%	(left_x:  104   top_y:  141   width:  209   height:  533)
+horse: 96%	(left_x:  270   top_y:  -20   width:  211   height:  704)
+person: 27%	(left_x:  377   top_y:  141   width:  102   height:  476)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\17.jpg: Predicted in 80.657000 milli-seconds.
+horse: 97%	(left_x:   78   top_y:   27   width:  271   height:  327)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\18.jpg: Predicted in 209.954000 milli-seconds.
+person: 96%	(left_x:  208   top_y:  386   width:  343   height:  988)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\19.jpg: Predicted in 92.101000 milli-seconds.
+horse: 53%	(left_x:   -0   top_y:  333   width:   70   height:  242)
+motorbike: 35%	(left_x:    8   top_y:  494   width:  146   height:  145)
+bicycle: 29%	(left_x:    8   top_y:  494   width:  146   height:  145)
+person: 75%	(left_x:   48   top_y:  360   width:   34   height:   72)
+person: 44%	(left_x:   76   top_y:  369   width:   24   height:   56)
+horse: 92%	(left_x:   78   top_y:  218   width:  291   height:  421)
+person: 86%	(left_x:  233   top_y:   37   width:  131   height:  423)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\2.jpg: Predicted in 85.175000 milli-seconds.
+person: 99%	(left_x:   13   top_y:   30   width:  360   height:  207)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\20.jpg: Predicted in 253.434000 milli-seconds.
+bicycle: 30%	(left_x:  211   top_y:   20   width:  335   height:  939)
+person: 97%	(left_x:  212   top_y:   10   width:  326   height:  931)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\21.jpg: Predicted in 140.830000 milli-seconds.
+person: 95%	(left_x:   42   top_y:   -9   width:  654   height:  733)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\22.jpg: Predicted in 92.203000 milli-seconds.
+horse: 41%	(left_x:   -1   top_y:  325   width:   35   height:  212)
+horse: 58%	(left_x:    6   top_y:  366   width:   64   height:  111)
+horse: 94%	(left_x:   28   top_y:  323   width:  324   height:  291)
+person: 29%	(left_x:   37   top_y:  340   width:   30   height:   68)
+person: 58%	(left_x:  121   top_y:  244   width:   90   height:  195)
+person: 48%	(left_x:  268   top_y:  395   width:   49   height:  132)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\23.jpg: Predicted in 85.205000 milli-seconds.
+horse: 62%	(left_x:   74   top_y:  242   width:  352   height:  431)
+person: 93%	(left_x:  236   top_y:  251   width:  144   height:  431)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\24.jpg: Predicted in 78.658000 milli-seconds.
+bottle: 56%	(left_x:  226   top_y:  858   width:   60   height:   94)
+person: 92%	(left_x:  271   top_y:  240   width:  490   height:  788)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\25.jpg: Predicted in 82.714000 milli-seconds.
+person: 28%	(left_x:   -0   top_y:   91   width:   11   height:   33)
+person: 48%	(left_x:   13   top_y:   88   width:   22   height:   38)
+person: 32%	(left_x:  110   top_y:   -0   width:   25   height:   22)
+horse: 34%	(left_x:  253   top_y:    4   width:  221   height:  229)
+person: 52%	(left_x:  362   top_y:    0   width:  112   height:  104)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\26.jpg: Predicted in 82.790000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\27.jpg: Predicted in 84.095000 milli-seconds.
+cow: 33%	(left_x:  -18   top_y:    8   width:  755   height:  716)
+horse: 56%	(left_x:   10   top_y:   48   width:  702   height:  682)
+person: 35%	(left_x:  379   top_y:   -5   width:  335   height:  724)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\28.jpg: Predicted in 201.718000 milli-seconds.
+person: 93%	(left_x:   96   top_y:  773   width:   29   height:   78)
+person: 95%	(left_x:  120   top_y:  782   width:   28   height:   73)
+person: 97%	(left_x:  132   top_y:  473   width:  165   height:  486)
+person: 94%	(left_x:  279   top_y:  483   width:  152   height:  478)
+person: 97%	(left_x:  412   top_y:  538   width:  156   height:  420)
+person: 56%	(left_x:  537   top_y:  782   width:   55   height:  169)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\29.jpg: Predicted in 91.584000 milli-seconds.
+horse: 87%	(left_x:    2   top_y:  301   width:  420   height: 1146)
+person: 71%	(left_x:   12   top_y:   45   width:  458   height:  854)
+person: 72%	(left_x:  361   top_y:  517   width:   65   height:   92)
+horse: 96%	(left_x:  364   top_y:  574   width:   83   height:  127)
+person: 62%	(left_x:  434   top_y:  529   width:   53   height:   60)
+person: 84%	(left_x:  435   top_y:   73   width:  426   height:  879)
+horse: 88%	(left_x:  438   top_y:  576   width:   55   height:  123)
+horse: 94%	(left_x:  504   top_y:  472   width:  599   height:  957)
+person: 27%	(left_x: 1059   top_y:  496   width:   87   height:  268)
+horse: 66%	(left_x: 1063   top_y:  538   width:   80   height:  232)
+person: 51%	(left_x: 1231   top_y:  571   width:   20   height:   66)
+person: 93%	(left_x: 1261   top_y:  565   width:   60   height:  136)
+person: 80%	(left_x: 1322   top_y:  466   width:  117   height:  203)
+horse: 96%	(left_x: 1329   top_y:  558   width:  108   height:  213)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\3.jpg: Predicted in 277.265000 milli-seconds.
+horse: 38%	(left_x:    6   top_y:   11   width:  201   height:  201)
+person: 69%	(left_x:  269   top_y:  110   width:   90   height:   77)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\30.jpg: Predicted in 90.455000 milli-seconds.
+horse: 100%	(left_x:  111   top_y:  113   width:  321   height:  208)
+person: 98%	(left_x:  224   top_y:   64   width:   61   height:  192)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\31.jpg: Predicted in 85.040000 milli-seconds.
+person: 82%	(left_x:  304   top_y:   77   width:  416   height:  627)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\32.jpg: Predicted in 86.825000 milli-seconds.
+person: 46%	(left_x:   -0   top_y:  109   width:    9   height:   59)
+horse: 93%	(left_x:    1   top_y:   33   width:  450   height:  383)
+person: 61%	(left_x:   11   top_y:  100   width:   23   height:   31)
+person: 76%	(left_x:   95   top_y:  212   width:   36   height:   40)
+person: 96%	(left_x:  364   top_y:   65   width:  102   height:  326)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\33.jpg: Predicted in 201.269000 milli-seconds.
+person: 99%	(left_x:   -3   top_y:  -16   width:  738   height:  779)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\34.jpg: Predicted in 92.503000 milli-seconds.
+horse: 100%	(left_x:   72   top_y:  259   width:  904   height:  754)
+person: 94%	(left_x:  430   top_y:  178   width:  124   height:  425)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\4.jpg: Predicted in 193.666000 milli-seconds.
+horse: 62%	(left_x:   -2   top_y:  659   width:   66   height:  136)
+horse: 32%	(left_x:   -0   top_y:  672   width:   19   height:  125)
+person: 42%	(left_x:   14   top_y:  613   width:   28   height:   49)
+person: 80%	(left_x:   36   top_y:  601   width:   45   height:   61)
+horse: 67%	(left_x:   37   top_y:  649   width:   72   height:  149)
+person: 59%	(left_x:   77   top_y:  614   width:   35   height:   83)
+person: 91%	(left_x:  100   top_y:  674   width:   45   height:  123)
+horse: 98%	(left_x:  117   top_y:  480   width:  287   height:  476)
+person: 53%	(left_x:  172   top_y:  146   width:  177   height:  568)
+person: 33%	(left_x:  354   top_y:  612   width:   39   height:   82)
+horse: 38%	(left_x:  358   top_y:  671   width:   59   height:  115)
+horse: 53%	(left_x:  411   top_y:  636   width:   69   height:  158)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\5.jpg: Predicted in 195.116000 milli-seconds.
+person: 100%	(left_x:  932   top_y:  820   width:  414   height:  464)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\6.jpg: Predicted in 92.230000 milli-seconds.
+person: 27%	(left_x:   -0   top_y:  170   width:    8   height:   24)
+horse: 94%	(left_x:   16   top_y:   22   width:  403   height:  432)
+person: 42%	(left_x:   59   top_y:  112   width:   12   height:   22)
+person: 59%	(left_x:  163   top_y:    1   width:  108   height:  202)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\7.jpg: Predicted in 86.244000 milli-seconds.
+person: 89%	(left_x:  401   top_y:  441   width:  201   height:  235)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\8.jpg: Predicted in 83.083000 milli-seconds.
+horse: 90%	(left_x:   48   top_y:   58   width:  392   height:  426)
+person: 76%	(left_x:  203   top_y:   -4   width:  118   height:  268)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+Facebook_Images\9.jpg: Predicted in 83.390000 milli-seconds.
+person: 49%	(left_x:   -0   top_y:  209   width:    8   height:   78)
+person: 44%	(left_x:    6   top_y:  218   width:   23   height:   67)
+person: 90%	(left_x:   23   top_y:  204   width:   34   height:  102)
+horse: 98%	(left_x:   34   top_y:    9   width:  231   height:  557)
+person: 45%	(left_x:   69   top_y:  264   width:   20   height:   43)
+person: 59%	(left_x:  139   top_y:   19   width:  117   height:  283)
+Enter Image Path: 
